@@ -15,7 +15,9 @@ docker compose up minio --build -d
  
 docker compose up minio -d
 ```
-doker ps
+````
+ doker ps
+ 
 
 configure .env variable to be recognise by your ide (intellij, vscode)
-````
+
